@@ -9,6 +9,8 @@
     column-gap: 25px;
     background-color: aqua;
     padding: 50px 100px;
+    border: 5px solid darkcyan;
+    border-radius: 10px;
 }
 h1 {
     grid-column: 1 / -1;
@@ -27,6 +29,8 @@ body {
     align-items: center;
     width: 100vw;
     height: 100vh;
+    background-color: lightgoldenrodyellow;
+    overflow: hidden;
 }
 input {
     height: 25px;
